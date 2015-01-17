@@ -66,6 +66,10 @@ font-size: 20px;
 	width: 30%;
 	height:50px;
 }
+
+.content-2 {
+	border-bottom: 11px solid black;
+}
 /*nav {
 
 	background-color: blue;
@@ -127,6 +131,13 @@ a: hover {
 	margin-bottom: 5px;
 }
 
+.main-table th {
+	border: 1px solid grey;
+	background: #acacac;
+	padding:2px;
+}
+
+.main-table > td > tr 
 .linklow {
 	font-size: 9px;
 	padding: 5px;
